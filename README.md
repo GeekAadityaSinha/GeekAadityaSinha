@@ -1,17 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60D5F7&background=86276800&width=435&lines=+Aaditya+Sinha;Engineer;Lazy+but+passionate+about+coding+and;tech.+)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Aaditya Sinha</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnc1cm5ya2JobzBvcWlubnQzc3IyZGZmY21ucmlteHMyZHUzdW5oeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekaadityasinha&label=Profile%20views&color=0e75b6&style=flat" alt="geekaadityasinha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekaadityasinha" alt="geekaadityasinha" /></a> </p>
 
-- 📫 How to reach me **aadityasinhawork@gmail.com**
+- 💬 Ask me about **dev\**
+
+- 📫 Mail **aadityasinhawork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aaditya-sinha-2b025a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aaditya-sinha-2b025a225/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aaditya-sinha-2b025a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya-sinha-2b025a225/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aadityaalgorithm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aadityaalgorithm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
